@@ -281,9 +281,6 @@ PokerHack™ is proprietary enterprise software available through tiered licensi
 
 ## 📞 Contact Information
 
-**For pricing information and trial license activation:**
-- **Telegram**: [@GodeyesPokerHack](https://t.me/GodeyesPokerHack)
-
 **For academic collaboration inquiries:**
 - **Telegram**: [@GodeyesPokerHack](https://t.me/GodeyesPokerHack)
 
