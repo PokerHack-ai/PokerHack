@@ -1,13 +1,13 @@
 # PokerHack™ - Advanced Quantum-Enhanced Poker AI Engine
 
 [![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-3.7.5-brightgreen.svg)](https://github.com/lsellers-max/PokerHack-pokerai-pokeraimodel)
+[![Version](https://img.shields.io/badge/version-3.7.5-brightgreen.svg)](https://github.com/PokerHack-ai/PokerHack)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/tensorflow-2.11-orange.svg)](https://tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/pytorch-2.0.1-orange.svg)](https://pytorch.org/)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lsellers-max/PokerHack-pokerai-pokeraimodel/main/PokerHack1.jpg" alt="PokerHack AI Engine" width="800">
+  <img src="https://raw.githubusercontent.com/PokerHack-ai/PokerHack/main/PokerHack1.jpg" alt="PokerHack AI Engine" width="800">
 </p>
 
 ## 🎯 Overview
@@ -75,8 +75,8 @@ PokerHack（PHK）是全球领先的AI人工智能解决方案，专注于将尖
 
 ```bash
 # Clone the repository
-git clone https://github.com/lsellers-max/PokerHack-pokerai-pokeraimodel.git
-cd PokerHack-pokerai-pokeraimodel
+git clone https://github.com/PokerHack-ai/PokerHack.git
+cd PokerHack
 
 # Install dependencies
 pip install -r requirements.txt
@@ -233,7 +233,7 @@ tournament_advice = api.get_tournament_advice(
 ## 🏗️ Technical Architecture
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lsellers-max/PokerHack-pokerai-pokeraimodel/main/PokerHack2.jpg" alt="PokerHack Technical Architecture" width="800">
+  <img src="https://raw.githubusercontent.com/PokerHack-ai/PokerHack/main/PokerHack2.jpg" alt="PokerHack Technical Architecture" width="800">
 </p>
 
 PokerHack™ implements a proprietary variant of Deep Counterfactual Regret Minimization (DCFRM) enhanced with quantum computing principles for probabilistic simulation. The system architecture consists of several interconnected neural networks that work together to form a sophisticated decision-making engine.
@@ -287,6 +287,9 @@ PokerHack™ is proprietary enterprise software available through tiered licensi
 **For academic collaboration inquiries:**
 - **Telegram**: [@GodeyesPokerHack](https://t.me/GodeyesPokerHack)
 
+**GitHub Repository:**
+- **Repository**: [https://github.com/PokerHack-ai/PokerHack](https://github.com/PokerHack-ai/PokerHack)
+
 ## 🔬 For Researchers
 
 PokerHack™ architecture has been benchmarked against leading GTO solvers and consistently performs within 0.5% EV of theoretical optimal play while maintaining exploitative capabilities against sub-optimal opponents.
@@ -299,7 +302,7 @@ Our algorithms have been tested on computational game theory benchmarks includin
 - WPT final table scenarios
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lsellers-max/PokerHack-pokerai-pokeraimodel/main/PokerHack3.jpg" alt="PokerHack Research" width="800">
+  <img src="https://raw.githubusercontent.com/PokerHack-ai/PokerHack/main/PokerHack3.jpg" alt="PokerHack Research" width="800">
 </p>
 
 ---
@@ -307,4 +310,5 @@ Our algorithms have been tested on computational game theory benchmarks includin
 <div align="center">
   <p><strong>PokerHack™</strong> - Advanced Quantum-Enhanced Poker AI Engine</p>
   <p>Contact: <a href="https://t.me/GodeyesPokerHack">@GodeyesPokerHack</a></p>
+  <p>GitHub: <a href="https://github.com/PokerHack-ai/PokerHack">https://github.com/PokerHack-ai/PokerHack</a></p>
 </div> 
